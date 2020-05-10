@@ -1,4 +1,4 @@
-# deep-spirituality
+# scripture-of-the-day
 
 This is a program I wrote for my church. They needed scriptures from each of the devotionals they wrote so that they could post "Scripture of the Day" and link it back to a devotional. They were doing it manually, and when I found that out I wrote this to help them out.
 
